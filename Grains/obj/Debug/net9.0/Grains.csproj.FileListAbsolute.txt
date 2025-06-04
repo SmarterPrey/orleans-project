@@ -10,3 +10,4 @@
 /Users/init6/Documents/GitHub/OrleansStarter/OrleansStarter/Grains/obj/Debug/net9.0/refint/Grains.dll
 /Users/init6/Documents/GitHub/OrleansStarter/OrleansStarter/Grains/obj/Debug/net9.0/Grains.pdb
 /Users/init6/Documents/GitHub/OrleansStarter/OrleansStarter/Grains/obj/Debug/net9.0/ref/Grains.dll
+/Users/init6/Documents/GitHub/OrleansStarter/OrleansStarter/Grains/obj/Debug/net9.0/Grains.sourcelink.json

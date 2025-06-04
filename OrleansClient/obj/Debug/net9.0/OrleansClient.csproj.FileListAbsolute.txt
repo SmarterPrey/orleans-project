@@ -92,3 +92,4 @@
 /Users/init6/Documents/GitHub/OrleansStarter/OrleansStarter/OrleansClient/obj/Debug/net9.0/OrleansClient.pdb
 /Users/init6/Documents/GitHub/OrleansStarter/OrleansStarter/OrleansClient/obj/Debug/net9.0/OrleansClient.genruntimeconfig.cache
 /Users/init6/Documents/GitHub/OrleansStarter/OrleansStarter/OrleansClient/obj/Debug/net9.0/ref/OrleansClient.dll
+/Users/init6/Documents/GitHub/OrleansStarter/OrleansStarter/OrleansClient/obj/Debug/net9.0/OrleansClient.sourcelink.json
