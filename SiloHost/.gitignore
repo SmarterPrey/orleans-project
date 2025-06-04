@@ -1,0 +1,17 @@
+# Build results
+bin/
+obj/
+*.user
+*.suo
+
+# Orleans persisted state
+**/GrainStorage/
+
+# VSCode/IDE files
+.vscode/
+.idea/
+*.userprefs
+
+# OS junk
+.DS_Store
+Thumbs.db
